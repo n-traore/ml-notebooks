@@ -5,7 +5,7 @@ Since some of the notebooks are old, I have included the requirements.txt list i
 
 Structure:
 ```
-├── private-machine-learning-examples
+├── ml-notebooks
 │   ├── data
 │   │   ├── csv-txt
 │   │   │   ├── folder1
